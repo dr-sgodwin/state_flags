@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My State Flags</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="image_name">State Flag</string>
+
+    <string name="tasmania">Tasmania</string>
+    <string name="new_south_wales">New South Wales</string>
+    <string name="queensland">Queensland</string>
+    <string name="victoria">Victoria</string>
+    <string name="south_australia">South Australia</string>
+    <string name="western_australia">Western Australia</string>
+    <string name="norhtern_territory">Northern Territory</string>
+    <string name="australia_capital_territory">Australian Capital Territory</string>
+
+    <string name="tasmania_url">http://en.wikipedia.org/wiki/Flag_of_Tasmania</string>
+    <string name="new_south_wales_url">http://en.wikipedia.org/wiki/Flag_of_New_South_Wales</string>
+    <string name="queensland_url">http://en.wikipedia.org/wiki/Flag_of_Queensland</string>
+    <string name="victoria_url">http://en.wikipedia.org/wiki/Flag_of_Victoria</string>
+    <string name="south_australia_url">http://en.wikipedia.org/wiki/Flag_of_South_Australia</string>
+    <string name="western_australia_url">http://en.wikipedia.org/wiki/Flag_of_Western_Australia</string>
+    <string name="norhtern_territory_url">http://en.wikipedia.org/wiki/Flag_of_the_Northern_Territory</string>
+    <string name="australia_captial_territory_url">http://en.wikipedia.org/wiki/Flag_of_the_Australian_Capital_Territory</string>
+</resources>
